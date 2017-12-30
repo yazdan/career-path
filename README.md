@@ -79,7 +79,6 @@
 - آشنایی با الگوهای ساخترای ( نظیر MVC، MVP یا MVVM و غیره )
 - خروجی گرفتن و sign کردن اپ و ارسال آن به مارکت ( مانند GooglePlay یا CafeBazaar )
 - آشنایی با Firebase ( یا حداقل آشنایی با سرویس‌های PushNotification )
-- تسلط بر git یا SVN
 
 ### توسعه دهنده iOS
 
