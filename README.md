@@ -101,8 +101,8 @@
 - آشنایی با CoreData و دیگر روش‌های ذخیره اطلاعات
 - آشنایی با دیگر Coreها ( نظیر CoreAnimation, CoreAudio, CoreGraphic, CoreLocation, MapKit, QuartzCore و غیره )
 - آشنایی به وبAPI و نحوه دریافت اطلاعات از اینترنت ( آشنایی با ساختار JSON، آشنایی با APIهای REST/SOAP یا Socket )
-- آشنایی با دیزاین پترن‌ها ( برای مثال الگوهای Singelton, Iterator, Adapter و غیره )
-- آشنایی با الگوهای ساخترای ( نظیر MVC، MVP یا MVVM و غیره )
+- آشنایی با دیزاین پترن‌ها ( برای مثال الگوهای Singelton, Iterator, Adapter, Delegation و غیره )
+- آشنایی با الگوهای ساخترای ( نظیر MVC، MVP , MVVM یا VIPER و غیره )
 - آشنایی با APN برای ارسال نوتیفیکیشن
 - آشنایی با مفاهیم پیشرفته ( نظیر: RxSwift و DependencyInjection )
 - خروجی گرفتن از XCode برای نسخه‌های جیلبرک (بدون ساین کردن )
