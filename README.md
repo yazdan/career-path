@@ -54,7 +54,7 @@
 
 ## توسعه‌دهنده نرم‌افزار واسط کاربری وب
 
-مهارت‌ها
+### مهارت‌ها
 - تسلط بر HTML و CSS
 - تسلط بر Javascript و نسخه‌های جدید (es6, es2017)
 - آشنایی با ابزارهای خودکارساز مانند گالپ و گرانت (Gulp, Grunt)
@@ -62,6 +62,8 @@
 - آشنایی با باندلرها (Webpack, Rollup)
 - آشنایی با فریمورک‌های ساخت اپلیکیشن وب (React, Vue, Angular, Ember)
 - آشنایی با فریمورک‌های طراحی (Bootstrap, Foundation, Semantic UI)
+
+[جزئیات بیشتر](web-front-end.md)
 
 ##  توسعه دهنده موبایل
 
@@ -155,25 +157,25 @@
 
 ##  مدیریت سیستم‌های لینوکسی
 مباحث زیر با توجه به سرفصل های امتحان [LPIC 1](http://www.lpi.org/our-certifications/lpic-1-overview) مطرح شده اند
- 
+
 مهارت ها
-- آشنایی با معماری سیستم (شناسایی و تنظیم سخت افزار ، مراحل Boot سیستم و ....)  
-- آشنایی با چگونگی نصب یک لینوکس workstation و مدیریت بسته ها (rpm و yum در سیستم های RPM-based و apt و aptitude در سیستم های Debian-based) 
+- آشنایی با معماری سیستم (شناسایی و تنظیم سخت افزار ، مراحل Boot سیستم و ....)
+- آشنایی با چگونگی نصب یک لینوکس workstation و مدیریت بسته ها (rpm و yum در سیستم های RPM-based و apt و aptitude در سیستم های Debian-based)
 - توانایی کار با خط فرمان و دستورات مهم GNU و Unix
 - آشنایی با Filesystem های لینوکس (ext4 , ext3 ,...) و سلسه مراتب استاندارد Filesystem های لینوکس (Standard Filesystem hierarchy)
 - شناخت و مدیریت دسترسی ها
-- آشنایی با Shell Scripting و Data Management     
+- آشنایی با Shell Scripting و Data Management
 - انجام وظایف مدیریتی مثل مدیریت کاربرها و گروه ها ، کار با Cron برای automate کردن وظایف ، Localisation و Internationalisation
 - آشنایی با مفهوم سرویس و سرویس های مهم سیستم
 - آشنایی مقدماتی با Network و حل مشکلات معمولی شبکه
-- مدیریت امنیت سیستم  
+- مدیریت امنیت سیستم
 
 ### منابع
 - [کتاب مرجع و مجموعه فیلم های آموزشی LPIC 1 - جادی](https://jadi.gitbooks.io/lpic1/content/)
 - [کتاب آموزشی LPIC-1 - IBM](https://www.ibm.com/developerworks/library/l-lpic1-map/index.html)
 - [دوره آموزشی آنلاین لینوکس مقدماتی - بنیاد لینوکس](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
-  
- 
+
+
 # تولید سخت‌افزار
 
 
