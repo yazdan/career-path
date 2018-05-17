@@ -16,4 +16,7 @@
 - [مجیدآنلاین - وب](http://www.majidonline.com/category/web.html)
 - [Scotch.io](https://scotch.io/)
 
+## کتاب‌ها
+- [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+
 </div>
