@@ -18,5 +18,6 @@
 
 ## کتاب‌ها
 - [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 </div>
