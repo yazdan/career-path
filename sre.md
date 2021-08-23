@@ -122,10 +122,7 @@
 <p dir="rtl">
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
+<img src="week6.png" width="" alt="alt_text" title="image_tooltip">
  تو این پروژه برای اینکه من توی جنگو عمق تر بودم با جنگو یا هر ابزار دیگه یک وب اپ نوشتم و فرانشو وصل کردم به یک vue و بعد فقط آدرس ادمین جنگو از بیرون قابل دیدن بود غیر این صورت 403 می داد و همه آدرس های ویو اما از بیرون میشد دید همه اینها داکرایز شدن و روی کوبر نیتیست اومدن بالا دیتا بیس پوستگرس ، گیت لب و پرومتیوس و گرافانه با داکر کامپوز اومدن بالا و از همه جا دیده می شدن بخش کانفیگ های و ابزار مورد نیاز با یک فایل انسیبل انجام شد و با گرافانا یک آلرت برای استورج ست شده بود برای انجین ایکس هم مثل پروژه بالا ip لیست انگلیس رو ( چو می تونستم تست کنم شما هر رنج آی پی که می تونید تست کنید این کارو کنید ) بستم و 403 بر می گردوند یک اسکریپت پایتونی هم نوشتم که به صورت رندوم به اندپونت ها ریکوست بزنه برای کد هم یک ci با گیت لب راه انداختم  توی این پروژه گیت لب و انسیبل برام جدید بود که این سری ویدیو های آموزشی من براش پیشنهاد می دم <a href="https://www.youtube.com/watch?v=34u4wbeEYEo&list=PLaFCDlD-mVOlnL0f9rl3jyOHNdHU--vlJ">gitlab </a>, <a href="https://www.youtube.com/watch?v=3RiVKs8GHYQ&list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70">ansible </a></p>
 
 
