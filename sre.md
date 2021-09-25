@@ -24,10 +24,10 @@
 
 # 
 آشنایی بیشتر با لینوکس :
-شناخت پایه های لینوکس مثل فایل سیستم ، systemd , دسترسی ها و … که برای این کار خودم با کتاب <a href="https://www.amazon.com/dp/B089Y5P85X?language=en_US&ref=KC_GS_GB_US">Linux Bible 10th Edition</a> خواندم خیلی جامع هست و سرنخ هایی میده بهتون ه باهاش میتونید کلی چیز دیگه یاد بگیرید و خیلی موضوع های دیگه مثل امنیت و یک سری تسک های که تو دنیایی واقعی باهاش بر می خورید مثل ران کردن ftp سرور و کنار اون با مفاهیم مثل مانیتورینگ و اتوماسیون هم آشنا می شوید همچنین با اسکریپت نویسی و یکمم شبکه و بخشی از ابزاری که تو شبکه به کارتون میاد ابزاری که باهاش آشنا میشد دست کم نگیرید تو دنیا واقعی خیلی به کارتون میاد مثل vim , telnet ,systemctl  کار کردن با این ابزار و چیز های دیگه مثل regex و awk رو هم تمرین کنید باعث میشه خیلی سریع کارتون بره بالا و کیفیت کارتون خیلی زیاد میکنه هر چیزی که تو ادامه این مطلب راجبش می خواهیم صحبت کنیم داخل این کتاب یا به طور مفصل یا خلاصه راجبش صحبت شده 
+شناخت پایه های لینوکس مثل فایل سیستم ، systemd , دسترسی ها و … که برای این کار خودم با کتاب <a href="https://www.goodreads.com/book/show/13838572-linux-bible?from_search=true&from_srp=true&qid=8V4oZRssne&rank=1">Linux Bible</a> خواندم خیلی جامع هست و سرنخ هایی میده بهتون ه باهاش میتونید کلی چیز دیگه یاد بگیرید و خیلی موضوع های دیگه مثل امنیت و یک سری تسک های که تو دنیایی واقعی باهاش بر می خورید مثل ران کردن ftp سرور و کنار اون با مفاهیم مثل مانیتورینگ و اتوماسیون هم آشنا می شوید همچنین با اسکریپت نویسی و یکمم شبکه و بخشی از ابزاری که تو شبکه به کارتون میاد ابزاری که باهاش آشنا میشد دست کم نگیرید تو دنیا واقعی خیلی به کارتون میاد مثل vim , telnet ,systemctl  کار کردن با این ابزار و چیز های دیگه مثل regex و awk رو هم تمرین کنید باعث میشه خیلی سریع کارتون بره بالا و کیفیت کارتون خیلی زیاد میکنه هر چیزی که تو ادامه این مطلب راجبش می خواهیم صحبت کنیم داخل این کتاب یا به طور مفصل یا خلاصه راجبش صحبت شده 
 
 * هدف : تواینایی دیباگ ، مانیتورینگ ،ساخت و استقرار سرویس ها در سطح سیستم عامل بدون استفاده از ابزار ثانویه
-*  منبع:  Linux Bible 10th Edition و  linux + کتاب 
+*  منبع:  Linux Bible و  linux + کتاب 
 * تمرین: استقرار یک وب اپلیکیشن به صورت سرویسی و با استفاده از systemd و ابزار دیگه و مانیتور کردن منابع سیستم با استفاده از دستورات سیتمی 
   
 
@@ -54,7 +54,7 @@
 داخل کتابی که معرفی کردم کمی راجب دیتا بیشس و یکمی راجب دستوراتش بهتون توضیح داده معمولا از شما توقع میره دیتا بیس هارو بتونید هندل کنید خودم فکر می کردم کار با دیتابیس بلدم اما وقتی توقع هایی که ازم می رفت دیدم فهمیدم خیلی موضوع عمیق تر از این حرف ها و بعضی وقت ها با دیتابیس کار کردن استرس زا و پر مسئولیت برخورد اول تو محیط کارم این بود که ساعت 1 شب باید دیتابیس مستر رو dump می کردم رو slave اگر با این اصطلاحات آشنا ندارید نگران نباشید خودمم خیلی هنوزم باهاشون آشنا نیستم برای شروع من دوره <a href="https://www.youtube.com/watch?v=ER8oKX5myE0">youtube</a> پیشنهاد میدم هر چند زمان کار آموزیم این ویدیو رو ندیده بودم ولی به نظرم برای شروع دوره خوبی است برای mysql بهتره با redis هم کمی تجربه کار داشته باشید 
 
 * هدف : یادگیری کار با دیتا بیس شیوه بک آپ گیری ، میگریت کردن استفاد از دستورات 
-* منبع: ابتدا کتاب Linux Bible 10th Edition و سپس MySQL introduction
+* منبع: ابتدا کتاب Linux Bible و سپس MySQL introduction
 * تمرین: اتصال یک دیتا بیس به وب اپپ جدا سازی رید و رایت دیتا بیس ساخت یوزر با دسترسی های مخطلف بک آپ گیری و برگرداندن بک آپ ها 
 
 # 
@@ -140,25 +140,25 @@ Geek's Lesson
 #
 ## منابع  :
 ### کتاب  :
-Linux Bible 10th Edition
+ <a href="https://sre.google/books/"> Linux Bible </a>
 
-the complete nginx cookbook
+<a href="https://www.nginx.com/resources/library/complete-nginx-cookbook/?utm_medium=cpc&utm_source=google&utm_campaign=amer-nx_mad&utm_content=eb-textad-retarget-cnvrt&_bt=491303871243&_bk=%2Bnginx%20%2Bbook&_bm=b&_bn=g&_bg=99541599046&gclid=CjwKCAjw64eJBhAGEiwABr9o2NF7twUaTwYDPnGpzD63vG7gg73qDKEBQk3Mt0fbwprefyKwchNKOhoCH1QQAvD_BwE"> the complete nginx cookbook </a>
 
-MySQL introduction
+<a href="https://www.goodreads.com/book/show/29540715-mysql-introduction?from_search=true&from_srp=true&qid=UVHgBXRcmh&rank=1"> MySQL introduction </a>
 
-LPIC-1
+<a href="https://www.goodreads.com/book/show/6836572-lpic-1?from_search=true&from_srp=true&qid=sklbTsrbVp&rank=1"> LPIC-1 </a>
 
-LPIC-2
+<a href="https://www.goodreads.com/book/show/28767443-lpic-2?from_search=true&from_srp=true&qid=CLfTOJI6EY&rank=1"> LPIC-2 </a>
 
-Linux +
+<a href="https://www.goodreads.com/book/show/25490570-comptia-linux-powered-by-linux-professional-institute-study-guide?from_search=true&from_srp=true&qid=YC62y7cnhf&rank=1"> Linux + </a>
 
-Network + 
+<a href="https://www.goodreads.com/book/show/40266399-comptia-network-certification-all-in-one-exam-guide-seventh-edition?from_search=true&from_srp=true&qid=ICbeYj1Ldm&rank=1">Network + </a>
 
-ansible up and running 
+<a href="https://www.goodreads.com/book/show/25151340-ansible?from_search=true&from_srp=true&qid=IHxjaOCllE&rank=1"> ansible up and running </a>
 
-docker up and running
+<a href="https://www.goodreads.com/book/show/25000037-docker?ac=1&from_search=true&qid=pZeY3yD4qF&rank=1"> docker up and running </a>
 
-kubernetes up and running
+<a href="https://www.goodreads.com/book/show/57865749-kubernetes?from_search=true&from_srp=true&qid=GbbB3AzAHU&rank=2"> kubernetes up and running </a>
 
 
 ### کانال های یوتیوب :
